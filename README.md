@@ -2,7 +2,7 @@
 
 
 #click the link to see this site in your browser:-
-#[@overTakesite](https://rick2k2.github.io/OverTakewebsite-/)
+#[@overTakesite](https://rick2k2.github.io/Static-Clone-OverTakewebsite/)
 
 
 #Link above you can use it to check the design in your laptop 
